@@ -1,0 +1,12 @@
+# Port Scanner Requirements
+# This project uses only Python standard library modules
+# No external dependencies are required
+
+# Python 3.6+ is required
+# Standard library modules used:
+# - socket
+# - concurrent.futures
+# - sys
+# - time
+# - typing
+
